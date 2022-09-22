@@ -1,6 +1,6 @@
 #include <iostream>
 
-static unsigned char CONFIG_BUFFER[2000] = "{\"Hostname\":\"Please\", \"Migrate\":\"Subscribe\"}";
+static unsigned char CONFIG_BUFFER[2000] = "{\"Hostname\":\"Ich\", \"Migrate\":\"Lebe\"}";
 
 struct config_t
 {
